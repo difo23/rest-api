@@ -34,7 +34,7 @@ flask run
 
 ### Users without payload
 
-![image-20220108174203412](/home/digdata/.config/Typora/typora-user-images/image-20220108174203412.png)
+![image-20220108174203412](./readmeimg/image-20220108174203412.png)
 
 ### Userw with paytload
 
