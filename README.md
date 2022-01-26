@@ -36,7 +36,7 @@ flask run
 
 ![image-20220108174203412](./readmeimg/image-20220108174203412.png)
 
-### Userw with paytload
+### User with payload
 
 ```bash
 curl -i -H "Content-Type: application/json" -X GET -d '{"users":["Adam","Bob"]}' http://localhost:5000/users                          
